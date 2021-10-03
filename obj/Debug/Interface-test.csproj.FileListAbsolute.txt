@@ -1,0 +1,14 @@
+C:\Users\bjarn\source\repos\Interface-Test\bin\Debug\Interface-test.exe.config
+C:\Users\bjarn\source\repos\Interface-Test\bin\Debug\Interface-test.exe
+C:\Users\bjarn\source\repos\Interface-Test\bin\Debug\Interface-test.pdb
+C:\Users\bjarn\source\repos\Interface-Test\obj\Debug\Interface-test.csproj.AssemblyReference.cache
+C:\Users\bjarn\source\repos\Interface-Test\obj\Debug\Interface-test.csproj.CoreCompileInputs.cache
+C:\Users\bjarn\source\repos\Interface-Test\obj\Debug\Interface-test.exe
+C:\Users\bjarn\source\repos\Interface-Test\obj\Debug\Interface-test.pdb
+C:\Users\bjarn\source\repos\Interface-Test\Interface-test\bin\Debug\Interface-test.exe.config
+C:\Users\bjarn\source\repos\Interface-Test\Interface-test\bin\Debug\Interface-test.exe
+C:\Users\bjarn\source\repos\Interface-Test\Interface-test\bin\Debug\Interface-test.pdb
+C:\Users\bjarn\source\repos\Interface-Test\Interface-test\obj\Debug\Interface-test.csproj.AssemblyReference.cache
+C:\Users\bjarn\source\repos\Interface-Test\Interface-test\obj\Debug\Interface-test.csproj.CoreCompileInputs.cache
+C:\Users\bjarn\source\repos\Interface-Test\Interface-test\obj\Debug\Interface-test.exe
+C:\Users\bjarn\source\repos\Interface-Test\Interface-test\obj\Debug\Interface-test.pdb
